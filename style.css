@@ -1,0 +1,36 @@
+
+.space{
+	margin-top:20px;
+}
+.slidecontrol{
+width:100%px;
+overflow:hidden;
+margin-top:0px;
+margin-bottom:20px;
+}
+.welcome{
+	font-size:36px;
+	font-size:bold;
+	padding:5px;
+	background-color:black;
+	color:white;
+}
+ .round img{ 
+width:300px;
+height:300px;
+}
+
+.sliderbg{
+	background-color:gray;
+}
+
+sticky-top{
+	position:fixed;
+}
+footer{
+	background-color:black;
+	padding:30px;
+	color:white;
+	text-align:center;
+	
+}
